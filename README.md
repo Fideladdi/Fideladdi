@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there! I'm Fidelis Addi
 
-<!--
-**Fideladdi/Fideladdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Scientist | Machine Learning Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about leveraging **data science**, **machine learning** and **Backend Development** to uncover insights, solve complex problems, and build intelligent systems. With a strong foundation in **Python, SQL, analytical tools, Django and FASTAPI**, I enjoy working on data-driven projects that create real impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 What You'll Find Here
+
+📊 **Data Science & Analytics** – Exploratory data analysis, feature engineering, and data visualization.  
+🤖 **Machine Learning & AI** – Predictive modeling, classification, clustering, and deep learning projects.  
+🛠 **End-to-End Solutions** – Data pipelines, model deployment, and automation.
+
+## 🛠 Tech Stack
+
+**🔹 Programming:**  
+`Python` | `SQL`
+
+**🔹 Data Science & ML:**  
+`Pandas` | `NumPy` | `Scikit-Learn` | `TensorFlow` | `PyTorch`
+
+**🔹 Visualization & Analytics:**  
+`Matplotlib` | `Seaborn` | `Power BI` | `Excel`
+
+**🔹 Databases & Tools:**  
+`MySQL` | `Jupyter Notebook` | `Git`
+
+## 📫 Connect with Me
+
+💼 [LinkedIn](https://linkedin.com/in/fidelisaddi)  
+📂 [Portfolio]()  
+📧 Email: addifidelis@live.com
+
+Let's collaborate and build something awesome! 🚀
