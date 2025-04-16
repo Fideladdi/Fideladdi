@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about leveraging **data science**, **machin
 ## 🛠 Tech Stack
 
 **🔹 Programming:**  
-`Python` | `SQL`
+`Python` |`Javascript`| `SQL`
 
 **🔹 Data Science & ML:**  
 `Pandas` | `NumPy` | `Scikit-Learn` | `TensorFlow` | `PyTorch`
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm passionate about leveraging **data science**, **machin
 `Matplotlib` | `Seaborn` | `Power BI` | `Excel`
 
 **🔹 Databases & Tools:**  
-`MySQL` | `Jupyter Notebook` | `Git`
+`MySQL` | `Jupyter Notebook` | `Git` | `PostGreSql` 
 
 ## 📫 Connect with Me
 
