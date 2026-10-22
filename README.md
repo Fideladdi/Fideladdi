@@ -1,33 +1,32 @@
-# 👋 Hey there! I'm Fidelis Addi
+# Hey, I'm Fidelis Addi 👋
 
-### 🚀 Data Scientist | Machine Learning Engineer
+### Data Platform Engineer · Calgary, AB
 
-Welcome to my GitHub! I'm passionate about leveraging **data science**, **machine learning** and **Backend Development** to uncover insights, solve complex problems, and build intelligent systems. With a strong foundation in **Python, SQL, analytical tools, Django and FASTAPI**, I enjoy working on data-driven projects that create real impact.
+I build data platforms end to end — ingestion, lakehouse modelling, orchestration, and the dashboards people actually use. Currently the sole data engineer at **Iron Gate Wine Auctions**, where I designed and built the entire data platform from scratch on Azure and Databricks.
 
-## 🔎 What You'll Find Here
+## 🏗️ What I Work On
 
-📊 **Data Science & Analytics** – Exploratory data analysis, feature engineering, and data visualization.  
-🤖 **Machine Learning & AI** – Predictive modeling, classification, clustering, and deep learning projects.  
-🛠 **End-to-End Solutions** – Data pipelines, model deployment, and automation.
+- **Lakehouse architecture** — Medallion (bronze/silver/gold) pipelines on Databricks with Delta Lake and Unity Catalog
+- **Dimensional modelling** — Star schemas, surrogate keys, idempotent `MERGE` patterns, schema drift handling
+- **Orchestration & ingestion** — Azure Data Factory, file-arrival triggers, ADLS Gen2
+- **Cost & performance** — Compute tuning (classic vs. serverless), diagnosing cloud networking costs
+- **Analytics delivery** — Self-hosted Apache Superset with row-level security, Power BI
+- **Automation** — Pipeline-driven Slack reporting with Databricks SQL + LLM summaries, n8n workflows
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**🔹 Programming:**  
-`Python` |`Javascript`| `SQL`
+**Languages:** `Python` · `SQL` · `PySpark`  
+**Platforms:** `Databricks` · `Azure Data Factory` · `ADLS Gen2` · `Delta Lake` · `Unity Catalog`  
+**Databases:** `PostgreSQL` · `MySQL`  
+**BI & Analytics:** `Apache Superset` · `Power BI`  
+**Backend & Automation:** `FastAPI` · `Django` · `n8n` · `Docker`  
+**Tools:** `Git` · `Linux` · `Jupyter`
 
-**🔹 Data Science & ML:**  
-`Pandas` | `NumPy` | `Scikit-Learn` | `TensorFlow` | `PyTorch`
+## 📌 Currently
 
-**🔹 Visualization & Analytics:**  
-`Matplotlib` | `Seaborn` | `Power BI` | `Excel`
+- Exploring industrial/OT data — `AVEVA PI`, `OPC UA`, `Ignition` — for energy-sector use cases
+- Writing up platform patterns from production work
 
-**🔹 Databases & Tools:**  
-`MySQL` | `Jupyter Notebook` | `Git` | `PostGreSql` 
+## 📫 Connect
 
-## 📫 Connect with Me
-
-💼 [LinkedIn](https://linkedin.com/in/fidelisaddi)  
-📂 [Portfolio]()  
-📧 Email: addifidelis@live.com
-
-Let's collaborate and build something awesome! 🚀
+💼 [LinkedIn](https://linkedin.com/in/fidelisaddi) · 🌐 [addifidelis.com](https://addifidelis.com) · 📧 addifidelis@live.com
